@@ -1,0 +1,19 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.4",
+    "nodemon": "^1.14.3",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "author": "Jefferson Rocha",
+  "license": "ISC",
+  "description": ""
+}
